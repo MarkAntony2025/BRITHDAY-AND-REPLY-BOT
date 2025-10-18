@@ -1,0 +1,17 @@
+{
+  "name": "birthday-bot",
+  "version": "1.0.0",
+  "description": "Discord birthday bot with busy reply and Render compatibility",
+  "main": "reply.js",
+  "scripts": {
+    "start": "node reply.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.0",
+    "dotenv": "^16.3.1",
+    "node-cron": "^3.0.2",
+    "express": "^4.18.2"
+  }
+}
+
+
